@@ -1,0 +1,111 @@
+body{
+max-width: 80%;
+margin: auto;
+}
+
+h1{
+font-size:80px;
+text-align: center;
+font-family: Times New Roman;
+color:white;
+background: black;
+}
+
+h2{
+font-size:40px;
+font-family: Times New Roman;
+background: black;
+color: White;
+width: 100%;
+text-align: center;
+}
+
+h3 {
+font-size: 15px;
+font-family: Times New Roman;
+color:white;
+background: Black;
+width: 100%;
+text-align: center;
+}
+
+
+.slogan{
+text-align: center;
+font-family: Times New Roman;
+color: white;
+}
+
+a{
+text-decoration: none;
+font-family: Times New Roman;
+font-size: 20px;
+text-align: right;
+color: #444242;
+padding-right: 10px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.boxes{
+margin-top:20px;
+float: right;
+}
+
+.banner{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.banner2{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.banner3{
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+margin-bottom: 50px;
+}
+
+.hlinks{
+text-align: right;
+padding-bottom: 15px;
+padding-right: 20px;
+padding-top: 10px;
+position: -webkit-sticky;
+position: sticky;
+top: 0px;
+background: white;
+}
+
+footer{
+font-family: century gothic;
+text-align: center;
+background: black;
+padding: 10px;
+color: white;
+font-size: 10px;
+margin-top: 40px;
+}
+
+.inner-grid img {
+	margin-top: 8px;
+	width: 31%;
+	padding: 2px;
+	
+}
+
+.outer-grid {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4px;
+	width: 100%;
+}
